@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "电脑打字练习\\x64\\Release\\Tui.h.obj",
+            "outputs": [
+                "E:\\C++项目\\vs\\TUI\\电脑打字练习\\电脑打字练习\\x64\\Release\\vc145.pdb",
+                "电脑打字练习\\x64\\Release\\",
+                "E:\\C++项目\\vs\\TUI\\电脑打字练习\\电脑打字练习\\x64\\Release\\Tui.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "Tui.h",
+                    "source-path": "e:\\c++项目\\vs\\tui\\电脑打字练习\\tui.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

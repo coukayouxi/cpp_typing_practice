@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "电脑打字练习\\x64\\Release\\Tui.obj",
+            "outputs": [
+                "电脑打字练习\\x64\\Release\\Tui.h_A55693116E7F1B35.ifc.dt.module.json",
+                "电脑打字练习\\x64\\Release\\Tui.h_A55693116E7F1B35.ifc.dt.d.json",
+                "电脑打字练习\\x64\\Release\\Tui.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "E:\\C++项目\\vs\\TUI\\电脑打字练习\\Tui.h",
+                    "source-path": "e:\\c++项目\\vs\\tui\\电脑打字练习\\tui.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}
